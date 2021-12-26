@@ -1,0 +1,6 @@
+module Pods_TimeVisualizer {
+  umbrella header "Pods-TimeVisualizer-umbrella.h"
+
+  export *
+  module * { export * }
+}
